@@ -1,2 +1,2 @@
 Hi,
-This is my first project, git-demo on git
+This is my first git repo, and working in master branch
